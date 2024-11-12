@@ -1,0 +1,26 @@
+.product-list-container {
+  background: rgb(176, 174, 174);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sort-by-price-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 90%;
+  margin: 30px 0px;
+}
+
+.sort-by-price-btn {
+  width: 120px;
+  height: 38px;
+  font-weight: 600;
+  border-radius: 20px;
+  border: none;
+}
+
+.product-list {
+  width: 90%;
+}
